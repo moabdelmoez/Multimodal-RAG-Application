@@ -1,6 +1,6 @@
 # Multimodal-RAG-Application
 
-This repository provides a Multimodal Retrieval-Augmented Generation (RAG) application that leverages the **LLAMA Vision Model** via **Together AI** and **ColPali** model.
+This repository provides a Multimodal Retrieval-Augmented Generation (RAG) application that leverages the **LLAMA Vision Model** via **Together AI** as a generator model and **ColPali** model as a retrieval model.
 
 ## Installation
 
