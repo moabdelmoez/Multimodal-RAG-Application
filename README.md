@@ -39,7 +39,7 @@ export TOGETHER_API_KEY=your_api_key_here
 
 ## Usage
 
-After completing the setup, you can run the application and start processing multimodal data using the LLAMA Vision Model.
+After completing the setup, you can run the application.
 ```bash
 streamlit run app.py
 ```
